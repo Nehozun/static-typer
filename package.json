@@ -1,0 +1,18 @@
+{
+  "name": "typer-static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "homepage": "https://lighthouse1910.github.io/static-typer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "deploy": "npm run build&&gh-pages -d build"
+  },
+  "author": "dungnguyen",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
