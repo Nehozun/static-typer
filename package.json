@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "homepage": "https://lighthouse1910.github.io/static-typer",
+  "homepage": "https://lighthouse1910cb.github.io/static-typer",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
